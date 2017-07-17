@@ -1,3 +1,5 @@
+# This is not being used, this is just the most basic router
+# I was able to make with a plug
 defmodule Helloplug do
   def init(options) do
     options

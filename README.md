@@ -1,6 +1,6 @@
 # Helloplug
 
-**TODO: Add description**
+This is just a very simple elixir application that shows how to connect to an SQLite3 DB and how to route incoming requests and render .exs templates.
 
 ## Installation
 
